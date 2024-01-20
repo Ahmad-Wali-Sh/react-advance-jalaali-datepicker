@@ -121,7 +121,7 @@
       _classCallCheck(this, Months);
       _this = _callSuper(this, Months, [props]);
       _this.state = {
-        months: ["فروردین", "اردیبهشت", "خرداد", "تیر", "مرداد", "شهریور", "مهر", "آبان", "آذر", "دی", "بهمن", "اسفند"],
+        months: ["حمل", "ثور", "جوزا", "سرطان", "اسد", "سنبله", "میزان", "عقرب", "قوس", "جدی", "دلو", "حوت"],
         monthPickerView: false,
         selectedMonth: _this.props.month
       };
