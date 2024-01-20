@@ -5,18 +5,18 @@ class Months extends React.Component {
     super(props);
     this.state = {
       months: [
-        "فروردین",
-        "اردیبهشت",
-        "خرداد",
-        "تیر",
-        "مرداد",
-        "شهریور",
-        "مهر",
-        "آبان",
-        "آذر",
-        "دی",
-        "بهمن",
-        "اسفند"
+        "حمل",
+        "ثور",
+        "جوزا",
+        "سرطان",
+        "اسد",
+        "سنبله",
+        "میزان",
+        "عقرب",
+        "قوس",
+        "جدی",
+        "دلو",
+        "حوت"
       ],
       monthPickerView: false,
       selectedMonth: this.props.month
